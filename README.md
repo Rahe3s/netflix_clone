@@ -1,3 +1,13 @@
+Netflix Clone with React and TMDB API
+
+🍿 Explore my Netflix clone project, built using React and powered by the TMDB API. Enjoy a seamless user interface, dynamic content, and a vast library of movies and shows. Elevate your streaming experience with this tribute to the beloved platform.
+
+🚀 Key Features:
+
+- React-powered front end
+- Integration with TMDB API for real-time content
+- Sleek and responsive design for an optimal viewing experience
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
